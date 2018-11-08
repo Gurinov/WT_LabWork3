@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_181" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.bsuir.gurinov.server.model.Info">
+    <void property="faculty">
+     <string>asd</string>
+    </void>
+    <void property="group">
+     <int>173</int>
+    </void>
+    <void property="mobile">
+     <string>12345</string>
+    </void>
+    <void property="name">
+     <string>evgen</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.gurinov.server.model.Info">
+    <void property="faculty">
+     <string>qwerfds</string>
+    </void>
+    <void property="group">
+     <int>222</int>
+    </void>
+    <void property="mobile">
+     <string>12345</string>
+    </void>
+    <void property="name">
+     <string>evgeniy</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.bsuir.gurinov.server.model.Info">
+    <void property="faculty">
+     <string>qeqewqe</string>
+    </void>
+    <void property="group">
+     <int>651006</int>
+    </void>
+    <void property="mobile">
+     <string>100</string>
+    </void>
+    <void property="name">
+     <string>Evgen</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
